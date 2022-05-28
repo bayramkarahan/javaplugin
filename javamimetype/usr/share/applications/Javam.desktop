@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=java
+Exec=/usr/bin/java -jar %f
+Type=Application
+Categories=GNOME;GTK;Core;Documentation;Utility;
+Icon=/usr/share/local/bay-java/java.png
+Keywords=java;jar;
+MimeType=application/x-java-archive;
+Name[tr_TR.UTF-8]=Java
+Name[tr_TR]=Javam.desktop
